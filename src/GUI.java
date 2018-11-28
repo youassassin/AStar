@@ -1,10 +1,3 @@
-/**
- * This class is an example of a simple GUI used to
- * convert weights between planets. All the work is done in this class,
- * it is better to separate out the logic from the view. But, this is a good
- * first example. *
- * @author L. Lehmann
- * @version 8/8/2016 */
 import javax.swing.*;
 import javax.swing.border.LineBorder;
 import javax.swing.event.*; 
